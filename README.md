@@ -35,4 +35,3 @@ Pipeline end-to-end com arquitetura Medallion (Bronze → Silver → Gold) proce
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-cardoso98/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:henriquec0889@gmail.com)
