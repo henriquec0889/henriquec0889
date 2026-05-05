@@ -1,6 +1,6 @@
 # Henrique Cardoso
 
-Profissional em transição para a área de dados, com foco em análise, BI e engenharia de dados. Formação em Sistemas para Internet (FMU, conclusão Jun/2026). Construindo projetos práticos que cobrem o ciclo completo: ingestão, limpeza, modelagem e visualização.
+Analista de Dados Júnior, com foco em análise, BI e engenharia de dados. Formação em Sistemas para Internet (FMU, conclusão Jun/2026). Construindo projetos práticos que cobrem o ciclo completo: ingestão, limpeza, modelagem e visualização.
 
 ---
 
