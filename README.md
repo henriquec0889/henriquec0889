@@ -20,15 +20,16 @@ Engenheiro de Dados Júnior, com foco em pipelines de dados, arquitetura Medalli
 
 ## Projetos
 
-### [Olist Sales Analytics](https://github.com/henriquec0889/analise-vendas-olist)
-Análise completa sobre 100 mil pedidos reais do marketplace Olist (2016–2018). Pipeline de ingestão e limpeza com Python e Pandas, análise exploratória em SQL e dashboard interativo no Power BI.
-
-`Python` `SQL` `Pandas` `Power BI`
 
 ### [Football Analytics Pipeline](https://github.com/henriquec0889/football-project)
 Pipeline end-to-end com arquitetura Medallion (Bronze → Silver → Gold) processando +8.000 partidas e 21.000 gols de 113 países. Coleta via API REST, armazenamento em Parquet e dashboard no Apache Superset via Docker.
 
 `Python` `DuckDB` `Docker` `Apache Superset` `Parquet` `API REST`
+
+### [Olist Sales Analytics](https://github.com/henriquec0889/analise-vendas-olist)
+Análise completa sobre 100 mil pedidos reais do marketplace Olist (2016–2018). Pipeline de ingestão e limpeza com Python e Pandas, análise exploratória em SQL e dashboard interativo no Power BI.
+
+`Python` `SQL` `Pandas` `Power BI`
 
 ---
 
