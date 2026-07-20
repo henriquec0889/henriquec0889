@@ -16,6 +16,8 @@ Engenheiro de Dados Júnior, com foco em pipelines de dados, arquitetura Medalli
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
+**Em desenvolvimento:** Apache Airflow · dbt
+
 ---
 
 ## Projetos
