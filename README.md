@@ -2,7 +2,7 @@
 
 ### Engenheiro de Dados
 
-Com foco no desenvolvimento de pipelines de dados utilizando Python e SQL, aplicando Arquitetura Medallion e processos de ETL. Desenvolvendo projetos práticos que abrangem todo o ciclo dos dados: ingestão, transformação, modelagem e disponibilização para análise.
+Desenvolvendo pipelines de dados utilizando Python e SQL, aplicando Arquitetura Medallion e processos de ETL em projetos que abrangem todo o ciclo dos dados: ingestão, transformação, modelagem e disponibilização para análise.
 
 ---
 
