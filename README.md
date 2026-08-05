@@ -1,41 +1,7 @@
 # Henrique Cardoso
 
-Engenheiro de Dados Júnior, com foco em pipelines de dados, arquitetura Medallion e ETL. Formação em Sistemas para Internet (FMU, conclusão jul/2026). Construindo projetos práticos que cobrem o ciclo completo: ingestão, transformação, modelagem e entrega.
+**Engenheiro de Dados**
 
----
+**Python | SQL | PostgreSQL | Docker**
 
-## Tecnologias
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black)
-![Apache Superset](https://img.shields.io/badge/Apache%20Superset-1FA8C9?style=flat&logo=apache&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-
-**Em desenvolvimento:** Apache Airflow · dbt
-
----
-
-## Projetos
-
-
-### [Football Analytics Pipeline](https://github.com/henriquec0889/football-project)
-Pipeline end-to-end com arquitetura Medallion (Bronze → Silver → Gold) processando +8.000 partidas e 21.000 gols de 113 países. Coleta via API REST, armazenamento em Parquet e dashboard no Apache Superset via Docker.
-
-`Python` `DuckDB` `Docker` `Apache Superset` `Parquet` `API REST`
-
-### [Olist Sales Analytics](https://github.com/henriquec0889/analise-vendas-olist)
-Análise completa sobre 100 mil pedidos reais do marketplace Olist (2016–2018). Pipeline de ingestão e limpeza com Python e Pandas, análise exploratória em SQL e dashboard interativo no Power BI.
-
-`Python` `SQL` `Pandas` `Power BI`
-
----
-
-## Contato
-
-📧 henriquec0889@gmail.com
-💼 https://www.linkedin.com/in/henrique-cardoso98/
+Desenvolvendo projetos de Engenharia de Dados com foco na construção de pipelines, ETL e Arquitetura Medallion.
