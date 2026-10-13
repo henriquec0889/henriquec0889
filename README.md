@@ -1,33 +1,33 @@
 # Henrique Cardoso
 
-### Engenheiro de Dados
+### Analista de Dados Júnior
 
-Desenvolvendo pipelines de dados utilizando Python e SQL, aplicando Arquitetura Medallion e processos de ETL em projetos que abrangem todo o ciclo dos dados: ingestão, transformação, modelagem e disponibilização para análise.
+Formado em Sistemas para Internet (FMU). Uso SQL, Power BI e Python para limpar, analisar e apresentar dados em dashboards. Tenho base em contabilidade e projetos próprios de engenharia de dados, e busco minha primeira oportunidade como analista.
+
+---
+
+## Projetos
+
+- [Análise de Vendas — E-commerce Olist](https://github.com/henriquec0889/analise-vendas-olist): análise de 100 mil pedidos reais com Python, SQL e dashboard em Power BI.
+- [Football Analytics Pipeline](https://github.com/henriquec0889/football-project): pipeline de dados completo com Python, DuckDB, Apache Superset e Docker.
 
 ---
 
 ## Tecnologias
 
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black)
-![Apache Superset](https://img.shields.io/badge/Apache%20Superset-20A6C9?style=flat&logo=apachesuperset&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Apache Superset](https://img.shields.io/badge/Apache_Superset-20A6C9?style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-**Em aprendizado:**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ---
 
 ## Contato
 
-📧 [henriquec0889@gmail.com](mailto:henriquec0889@gmail.com)  •  💼 [linkedin.com/in/henrique-cardoso98](https://www.linkedin.com/in/henrique-cardoso98/)
+✉️ [henriquec0889@gmail.com](mailto:henriquec0889@gmail.com) • 💼 [linkedin.com/in/henrique-cardoso98](https://www.linkedin.com/in/henrique-cardoso98/)
